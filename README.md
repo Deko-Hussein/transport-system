@@ -1,45 +1,78 @@
-The Transport & Ride Coordination System is a modern web application that connects passengers and drivers to make transportation easier, faster, and more organized.
+# 🚐 Transport & Ride Coordination System
+## 📌 Overview
 
-It allows users to:
+The **Transport & Ride Coordination System** is a modern web application that connects passengers and drivers to make transportation easier, faster, and more organized.
 
-Request rides 🚐
-Manage routes 📍
-Accept ride requests 🚗
-Track trip history 📦
-🚨 Problem Statement
+This system helps users:
+- 🚐 Request rides easily  
+- 🚗 Manage transport routes  
+- 📍 Track trips  
+- 💰 Use fixed pricing system  
+
+---
+
+## 🚨 Problem Statement
 
 In many cities, transportation is still unorganized:
 
-❌ No centralized ride system
-❌ Random pricing between drivers
-❌ Difficulty finding transport
-❌ No structured route management
-❌ Poor communication system
-💡 Solution
+- ❌ No centralized ride system  
+- ❌ Random and unfair pricing  
+- ❌ Difficulty finding transport  
+- ❌ No structured route management  
+- ❌ Poor communication between drivers and passengers  
 
-This system provides:
+---
 
-📍 Clear route system (From → To)
-🚐 Ride request & acceptance flow
-💰 Fixed pricing per route
-👥 Driver & passenger connection
-📦 Trip history tracking
-👥 User Roles
-👤 Passenger
-Register / Login
-Browse routes
-Request rides
-View ride history
-🚗 Driver
-Register / Login
-Add routes
-Accept ride requests
-Manage trips
-🔥 Features
-🔐 Authentication (JWT Login System)
-📍 Route Management
-🚐 Ride Request System
-💰 Fixed Fare System
-📦 Trip History
-🔍 Search & Filter
-📊 Dashboard Interfac
+## 💡 Solution
+
+This system provides a digital platform that:
+
+- 📍 Defines clear routes (From → To)  
+- 🚐 Allows ride request & acceptance  
+- 💰 Standardizes pricing per route  
+- 👥 Connects drivers and passengers  
+- 📦 Stores trip history  
+
+---
+
+## 👥 User Roles
+
+### 👤 Passenger
+- Register / Login  
+- Browse available routes  
+- Request rides  
+- View trip history  
+
+### 🚗 Driver
+- Register / Login  
+- Add available routes  
+- Accept/reject ride requests  
+- Manage trips  
+
+---
+
+## 🔥 Key Features
+
+- 🔐 Authentication (JWT)  
+- 📍 Route management system  
+- 🚐 Ride request system  
+- 💰 Fixed fare system  
+- 📦 Trip history tracking  
+- 🔍 Search & filter routes  
+- 📊 User dashboard  
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+- React.js ⚛️  
+- Tailwind CSS 🎨  
+
+### Backend
+- Node.js 🚀  
+- Express.js ⚡  
+
+### Database
+- MongoDB 🗄️  
+
